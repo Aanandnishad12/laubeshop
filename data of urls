@@ -1,0 +1,2097 @@
+[ 
+{ 
+"id":1,
+"category":"Blades",
+"sub_category":"CXSteelBlades",
+"product_name":"CX Steel Blades",
+"url":"https://laubeshop.com/cx-steel-blades/",
+"processed":1
+},
+{ 
+"id":2,
+"category":"Blades",
+"sub_category":"CXCeramicBlades",
+"product_name":"GCX Ceramic Blades",
+"url":"https://laubeshop.com/gcx-ceramic-blades/",
+"processed":0
+},
+{ 
+"id":3,
+"category":"Blades",
+"sub_category":"CXWideSteelBlades",
+"product_name":"DIRTY DOG® CX Wide Steel Blades",
+"url":"https://laubeshop.com/dirty-dog-cx-wide-steel-blades/",
+"processed":0
+},
+{ 
+"id":4,
+"category":"Blades",
+"sub_category":"CXWideSteelBlades",
+"product_name":"CX Wide Steel Blades",
+"url":"https://laubeshop.com/cx-wide-steel-blades/",
+"processed":0
+},
+{ 
+"id":5,
+"category":"Blades",
+"sub_category":"CXWideCeramicBlades",
+"product_name":"CX Ceramic Wide Blades",
+"url":"https://laubeshop.com/gcx-ceramic-wide-blades/",
+"processed":0
+},
+{ 
+"id":6,
+"category":"Blades",
+"sub_category":"TrimmerBlades",
+"product_name":"305 Speed Feed and Purrrl Blades",
+"url":"https://laubeshop.com/305-speed-feed-and-purrrl-blades/",
+"processed":0
+},
+{ 
+"id":7,
+"category":"Blades",
+"sub_category":"TrimmerBlades",
+"product_name":"Hair Pen and Pee Wee Blades",
+"url":"https://laubeshop.com/hair-pen-and-pee-wee-blades/",
+"processed":0
+},
+{ 
+"id":8,
+"category":"Blades",
+"sub_category":"TrimmerBlades",
+"product_name":"Shifty Trimmer Blades",
+"url":"https://laubeshop.com/shifty-trimmer-blades/",
+"processed":0
+},
+{ 
+"id":9,
+"category":"Blades",
+"sub_category":"TrimmerBlades",
+"product_name":"303 Zipper Blades and Combs",
+"url":"https://laubeshop.com/303-zipper-blades-and-combs/",
+"processed":0
+},
+{ 
+"id":10,
+"category":"Clippers",
+"sub_category":"GroomerClipperKits",
+"product_name":"871 iVAC Cowboy Clipper Kit 2 Speed",
+"url":"https://laubeshop.com/871-ivac-cowboy-clipper-kit-2-speed/",
+"processed":0
+},
+{ 
+"id":11,
+"category":"Clippers",
+"sub_category":"GroomerClipperKits",
+"product_name":"DIRTY DOG® Clipper Kit 2 Speed",
+"url":"https://laubeshop.com/dirty-dog-clipper-kit-2-speed/",
+"processed":0
+},
+{ 
+"id":12,
+"category":"Clippers",
+"sub_category":"GroomerClipperKits",
+"product_name":"Lazor and Cowboy Clipper Kits",
+"url":"https://laubeshop.com/lazor-and-cowboy-clipper-kits-max-power/",
+"processed":0
+},
+{ 
+"id":13,
+"category":"Clippers",
+"sub_category":"GroomerClipperKits",
+"product_name":"533 Mini Lazor XPRESS Variable Speed Clipper Kit",
+"url":"https://laubeshop.com/533-mini-lazor-xpress-clipper-kit-variable-speed/",
+"processed":0
+},
+{ 
+"id":14,
+"category":"Clippers",
+"sub_category":"GroomerClipperKits",
+"product_name":"531 Mini Lazor XPRESS Clipper Kit 2 Speed",
+"url":"https://laubeshop.com/531-mini-lazor-xpress-clipper-kit-2-speed/",
+"processed":0
+},
+{ 
+"id":15,
+"category":"Clippers",
+"sub_category":"GroomerClipperKits",
+"product_name":"544 Mini Lazor Cordless Clipper Kit",
+"url":"https://laubeshop.com/544-mini-lazor-cordless-clipper-kit-2-speed-with-lights/",
+"processed":0
+},
+{ 
+"id":16,
+"category":"Clippers",
+"sub_category":"GroomerClipperKits",
+"product_name":"Mini Micro Cordpack Clipper Kit - 2 Speed",
+"url":"https://laubeshop.com/mini-micro-cordpack-clipper-kit-2-speed/",
+"processed":0
+},
+{ 
+"id":17,
+"category":"Clippers",
+"sub_category":"GroomerClipperKits",
+"product_name":"Mini Micro, Mini Micro Xpress, Thunder Clipper Kits",
+"url":"https://laubeshop.com/mini-micro-thunder-xpress-clipper-kits-mega-power/",
+"processed":0
+},
+{ 
+"id":18,
+"category":"Clippers",
+"sub_category":"GroomerClipperKits",
+"product_name":"733 Mini Micro XPRESS Clipper Kit  Variable Speed",
+"url":"https://laubeshop.com/733-mini-micro-xpress-clipper-kit-variable-speed/",
+"processed":0
+},
+{ 
+"id":19,
+"category":"Clippers",
+"sub_category":"GroomerClipperKits",
+"product_name":"731 Mini Micro XPRESS Clipper Kit 2 Speed",
+"url":"https://laubeshop.com/731-mini-micro-xpress-clipper-kit-2-speed/",
+"processed":0
+},
+{ 
+"id":20,
+"category":"Clippers",
+"sub_category":"GroomerClipperKits",
+"product_name":"833 Litening XPRESS Clipper Kit Variable Speed",
+"url":"https://laubeshop.com/833-litening-xpress-clipper-kit-variable-speed/",
+"processed":0
+},
+{ 
+"id":21,
+"category":"Clippers",
+"sub_category":"GroomerClipperKits",
+"product_name":"831 Litening XPRESS Clipper Kit 2 Speed",
+"url":"https://laubeshop.com/831-litening-xpress-clipper-kit-2-speed/",
+"processed":0
+},
+{ 
+"id":22,
+"category":"Clippers",
+"sub_category":"GroomerClipperKits",
+"product_name":"Litening, Cowgirl, Xpress Clipper Kits",
+"url":"https://laubeshop.com/litening-cowgirl-xpress-clipper-kits/",
+"processed":0
+},
+{ 
+"id":23,
+"category":"Clippers",
+"sub_category":"GroomerClipperKits",
+"product_name":"821 Cowgirl Cordpack Clipper Kit",
+"url":"https://laubeshop.com/821-cowgirl-cordpack-clipper-kit/",
+"processed":0
+},
+{ 
+"id":24,
+"category":"Clippers",
+"sub_category":"GroomerClipperKits",
+"product_name":"851 iVAC Vacuum Clipper Kit 2 Speed",
+"url":"https://laubeshop.com/851-ivac-vacuum-clipper-kit-2-speed/",
+"processed":0
+},
+{ 
+"id":25,
+"category":"Clippers",
+"sub_category":"GroomerClipperKits",
+"product_name":"821 Litening 2 Speed Clipper Kit",
+"url":"https://laubeshop.com/821-litening-cordpack-clipper-kit-2-speed/",
+"processed":0
+},
+{ 
+"id":26,
+"category":"Clippers",
+"sub_category":"GroomerClipperKits",
+"product_name":"iCLIP Corded Clipper Kit",
+"url":"https://laubeshop.com/iclip-corded-clipper-kit/",
+"processed":0
+},
+{ 
+"id":27,
+"category":"Clippers",
+"sub_category":"GroomerClipperKits",
+"product_name":"505 Super Cordless Clipper Kit 2 Speed with Lights",
+"url":"https://laubeshop.com/505-super-cordless-clipper-kit-2-speed-with-lights/",
+"processed":0
+},
+{ 
+"id":28,
+"category":"Clippers",
+"sub_category":"GroomerClipperKits",
+"product_name":"521 Mini Lazor Clipper Kit 2 Speed with Lights",
+"url":"https://laubeshop.com/521-mini-lazor-clipper-kit-2-speed-with-lights/",
+"processed":0
+},
+{ 
+"id":29,
+"category":"Clippers",
+"sub_category":"GroomerClipperKits",
+"product_name":"523 Mini Lazor Clipper Kit - Variable Speed",
+"url":"https://laubeshop.com/523-variable-speed-mini-lazor-clipper-kit-with-lights/",
+"processed":0
+},
+{ 
+"id":30,
+"category":"Clippers",
+"sub_category":"GroomerClipperKits",
+"product_name":"503 Lazor 2 Speed Cordpack Clipper Kit",
+"url":"https://laubeshop.com/503-lazor-cordpack-clipper-kit/",
+"processed":0
+},
+{ 
+"id":31,
+"category":"Clippers",
+"sub_category":"GroomerClipperKits",
+"product_name":"804 Litening Cordless Clipper Kit 2 Speed",
+"url":"https://laubeshop.com/804-litening-cordless-clipper-kit-2-speed/",
+"processed":0
+},
+{ 
+"id":32,
+"category":"Clippers",
+"sub_category":"VacuumClippersKits",
+"product_name":"iVAC Hose KitⓇ",
+"url":"https://laubeshop.com/ivac-hose-kit/",
+"processed":0
+},
+{ 
+"id":33,
+"category":"Clippers",
+"sub_category":"VacuumClippersKits",
+"product_name":"iVACⓇ Vacuum Speed Controller",
+"url":"https://laubeshop.com/ivac-vacuum-variable-switch-controller/",
+"processed":0
+},
+{ 
+"id":34,
+"category":"Clippers",
+"sub_category":"VacuumClippersKits",
+"product_name":"iVac Hose Accessories",
+"url":"https://laubeshop.com/ivac-hose-accessories/",
+"processed":0
+},
+{ 
+"id":35,
+"category":"Clippers",
+"sub_category":"VacuumClippersKits",
+"product_name":"iVac Vent Plug",
+"url":"https://laubeshop.com/ivac-vent-plug/",
+"processed":0
+},
+{ 
+"id":36,
+"category":"Clippers",
+"sub_category":"VacuumClippersKits",
+"product_name":"iVAC Ⓡ Hose DeClogger",
+"url":"https://laubeshop.com/ivac-hose-declogger/",
+"processed":0
+},
+{ 
+"id":37,
+"category":"Clippers",
+"sub_category":"VacuumClippersKits",
+"product_name":"iVAC Transformer",
+"url":"https://laubeshop.com/ivac-transformer-replacement-parts/",
+"processed":0
+},
+{ 
+"id":38,
+"category":"Clippers",
+"sub_category":"Equine&LivestockClipperKits",
+"product_name":"575 Cowboy Cordless Clipper with Li-Ion Battery",
+"url":"https://laubeshop.com/575-cowboy-cordless-clipper-with-li-ion-battery/",
+"processed":0
+},
+{ 
+"id":39,
+"category":"Clippers",
+"sub_category":"Equine&LivestockClipperKits",
+"product_name":"571 Cowboy Clipper Kit 2 Speed with Wide Blade",
+"url":"https://laubeshop.com/571-mini-cowboy-clipper-kit-2-speed-with-wide-blade/",
+"processed":0
+},
+{ 
+"id":40,
+"category":"Clippers",
+"sub_category":"Equine&LivestockClipperKits",
+"product_name":"553 Super Cowboy Cordpack Clipper Kit 2 Speed with Wide Blade",
+"url":"https://laubeshop.com/553-super-cowboy-cordpack-clipper-kit-2-speed-with-wide-blade/",
+"processed":0
+},
+{ 
+"id":41,
+"category":"Clippers",
+"sub_category":"Equine&LivestockClipperKits",
+"product_name":"555 Cordless Cowboy 2 Speed Clipper Kit",
+"url":"https://laubeshop.com/555-cordless-cowboy-2-speed-clipper-kit/",
+"processed":0
+},
+{ 
+"id":42,
+"category":"Trimmers",
+"sub_category":"SpeedFeed/PurrlTrimmerKits",
+"product_name":"306 Speed Feed Cordpack Trimmer Kit",
+"url":"https://laubeshop.com/306-speed-feed-cordpack-trimmer-kit/",
+"processed":0
+},
+{ 
+"id":43,
+"category":"Trimmers",
+"sub_category":"SpeedFeed/PurrlTrimmerKits",
+"product_name":"306 Purrrl Cordpack Trimmer Kit",
+"url":"https://laubeshop.com/306-purrrl-cordpack-trimmer-kit/",
+"processed":0
+},
+{ 
+"id":44,
+"category":"Trimmers",
+"sub_category":"SpeedFeed/PurrlTrimmerKits",
+"product_name":"305 Purrrl Cordless Trimmer Kit",
+"url":"https://laubeshop.com/305-purrrl-cordless-cat-trimmer-kit/",
+"processed":0
+},
+{ 
+"id":45,
+"category":"Trimmers",
+"sub_category":"SpeedFeed/PurrlTrimmerKits",
+"product_name":"305 Speed Feed Cordless Trimmer Kit",
+"url":"https://laubeshop.com/305-speed-feed-cordless-trimmer-kit/",
+"processed":0
+},
+{ 
+"id":46,
+"category":"Trimmers",
+"sub_category":"PeeWeeTrimmerKit",
+"product_name":"326 Pee Wee Trimmer Kit",
+"url":"https://laubeshop.com/326-pee-wee-trimmer-kit/",
+"processed":0
+},
+{ 
+"id":47,
+"category":"Trimmers",
+"sub_category":"ShiftyTrimmerKit",
+"product_name":"311 Shifty Trimmer Kit",
+"url":"https://laubeshop.com/311-shifty-trimmer-kit/",
+"processed":0
+},
+{ 
+"id":48,
+"category":"Maintenance",
+"sub_category":"ClipperParts",
+"product_name":"Thrust Bearing",
+"url":"https://laubeshop.com/thrust-bearing/",
+"processed":0
+},
+{ 
+"id":49,
+"category":"Maintenance",
+"sub_category":"ClipperParts",
+"product_name":"Clipper Housing Replacement, Repairs",
+"url":"https://laubeshop.com/clipper-housing-replacement-repairs/",
+"processed":0
+},
+{ 
+"id":50,
+"category":"Maintenance",
+"sub_category":"ClipperParts",
+"product_name":"Cowboy Nameplate Assembly",
+"url":"https://laubeshop.com/cowboy-nameplate-assembly/",
+"processed":0
+},
+{ 
+"id":51,
+"category":"Maintenance",
+"sub_category":"ClipperParts",
+"product_name":"Name Plate Assembly - Choose Your Model",
+"url":"https://laubeshop.com/name-plate-assembly-choose-your-model/",
+"processed":0
+},
+{ 
+"id":52,
+"category":"Maintenance",
+"sub_category":"ClipperParts",
+"product_name":"Motor Mount Tools",
+"url":"https://laubeshop.com/motor-mount-tools/",
+"processed":0
+},
+{ 
+"id":53,
+"category":"Maintenance",
+"sub_category":"ClipperParts",
+"product_name":"Motor Assembly",
+"url":"https://laubeshop.com/motor-assembly/",
+"processed":0
+},
+{ 
+"id":54,
+"category":"Maintenance",
+"sub_category":"ClipperParts",
+"product_name":"Cord Strain Relief Pliers",
+"url":"https://laubeshop.com/cord-strain-relief-pliers/",
+"processed":0
+},
+{ 
+"id":55,
+"category":"Maintenance",
+"sub_category":"ClipperParts",
+"product_name":"Hinge Screws - Pack of 6",
+"url":"https://laubeshop.com/hinge-screws-pack-of-6/",
+"processed":0
+},
+{ 
+"id":56,
+"category":"Maintenance",
+"sub_category":"ClipperParts",
+"product_name":"Nameplate Screws - Pack of 6",
+"url":"https://laubeshop.com/nameplate-screws-pack-of-6/",
+"processed":0
+},
+{ 
+"id":57,
+"category":"Maintenance",
+"sub_category":"ClipperParts",
+"product_name":"Enduro Drive Bearing",
+"url":"https://laubeshop.com/enduro-drive-bearing/",
+"processed":0
+},
+{ 
+"id":58,
+"category":"Maintenance",
+"sub_category":"ClipperParts",
+"product_name":"Hinge Assembly",
+"url":"https://laubeshop.com/hinge-assembly/",
+"processed":0
+},
+{ 
+"id":59,
+"category":"Maintenance",
+"sub_category":"ClipperParts",
+"product_name":"Latch",
+"url":"https://laubeshop.com/latch/",
+"processed":0
+},
+{ 
+"id":60,
+"category":"Maintenance",
+"sub_category":"ClipperParts",
+"product_name":"Tune Up Kits - Choose Clipper Model",
+"url":"https://laubeshop.com/tune-up-kits-choose-clipper-model/",
+"processed":0
+},
+{ 
+"id":61,
+"category":"Maintenance",
+"sub_category":"ClipperParts",
+"product_name":"Levers/Drive Arms",
+"url":"https://laubeshop.com/lever-drive-arm-replacements-choose-model/",
+"processed":0
+},
+{ 
+"id":62,
+"category":"Maintenance",
+"sub_category":"VacuumAttachments",
+"product_name":"Vac Pac Attachment Kits",
+"url":"https://laubeshop.com/vac-pac-attachment-kits/",
+"processed":0
+},
+{ 
+"id":63,
+"category":"Maintenance",
+"sub_category":"BladeParts",
+"product_name":"Blade Spring",
+"url":"https://laubeshop.com/blade-spring/",
+"processed":0
+},
+{ 
+"id":64,
+"category":"Maintenance",
+"sub_category":"BladeParts",
+"product_name":"Cutter Blades (with Blade Socket)",
+"url":"https://laubeshop.com/cutter-blades/",
+"processed":0
+},
+{ 
+"id":65,
+"category":"Maintenance",
+"sub_category":"BladeParts",
+"product_name":"Blade Screws - Pack of 6",
+"url":"https://laubeshop.com/blade-screws-pack-of-6/",
+"processed":0
+},
+{ 
+"id":66,
+"category":"Maintenance",
+"sub_category":"BladeParts",
+"product_name":"Blade Guide",
+"url":"https://laubeshop.com/blade-guide/",
+"processed":0
+},
+{ 
+"id":67,
+"category":"Maintenance",
+"sub_category":"BladeParts",
+"product_name":"Blade Socket",
+"url":"https://laubeshop.com/blade-socket/",
+"processed":0
+},
+{ 
+"id":68,
+"category":"Maintenance",
+"sub_category":"CordPackParts",
+"product_name":"Lazor Cordpack Housing",
+"url":"https://laubeshop.com/lazor-cordpack-housing/",
+"processed":0
+},
+{ 
+"id":69,
+"category":"Maintenance",
+"sub_category":"CordPackParts",
+"product_name":"Thermal Cover Cap Assembly",
+"url":"https://laubeshop.com/thermal-cover-cap-assembly/",
+"processed":0
+},
+{ 
+"id":70,
+"category":"Maintenance",
+"sub_category":"CordPackParts",
+"product_name":"Seal Pins - For All Models",
+"url":"https://laubeshop.com/seal-pins-for-all-models/",
+"processed":0
+},
+{ 
+"id":71,
+"category":"Maintenance",
+"sub_category":"CordPackParts",
+"product_name":"Bale Hangers",
+"url":"https://laubeshop.com/bale-hangers/",
+"processed":0
+},
+{ 
+"id":72,
+"category":"Maintenance",
+"sub_category":"CordPackParts",
+"product_name":"Allen Wrench Key .035mm",
+"url":"https://laubeshop.com/allen-wrench-key-035mm/",
+"processed":0
+},
+{ 
+"id":73,
+"category":"Maintenance",
+"sub_category":"CordPackParts",
+"product_name":"Cord Strain Relief",
+"url":"https://laubeshop.com/cord-strain-relief/",
+"processed":0
+},
+{ 
+"id":74,
+"category":"Maintenance",
+"sub_category":"CordPackParts",
+"product_name":"Set Screw",
+"url":"https://laubeshop.com/set-screw/",
+"processed":0
+},
+{ 
+"id":75,
+"category":"Maintenance",
+"sub_category":"DryerParts",
+"product_name":"Magnum Force Hose End Coupling Newer Style",
+"url":"https://laubeshop.com/magnum-force-hose-end-coupling-2012/",
+"processed":0
+},
+{ 
+"id":76,
+"category":"Maintenance",
+"sub_category":"DryerParts",
+"product_name":"Dryer Back Faceplate",
+"url":"https://laubeshop.com/dryer-back-faceplate/",
+"processed":0
+},
+{ 
+"id":77,
+"category":"Maintenance",
+"sub_category":"DryerParts",
+"product_name":"Magnum Force Dryer Accessories",
+"url":"https://laubeshop.com/magnum-force-dryer-accessories/",
+"processed":0
+},
+{ 
+"id":78,
+"category":"Maintenance",
+"sub_category":"Lubricants/Coolants",
+"product_name":"Apple Pie Scented blade Oil",
+"url":"https://laubeshop.com/apple-pie-scented-oil/",
+"processed":0
+},
+{ 
+"id":79,
+"category":"Maintenance",
+"sub_category":"Lubricants/Coolants",
+"product_name":"Grease 1 oz Jar",
+"url":"https://laubeshop.com/grease-1-oz-jar/",
+"processed":0
+},
+{ 
+"id":80,
+"category":"Maintenance",
+"sub_category":"Lubricants/Coolants",
+"product_name":"Dr. Slick - Spray Oil in a Can - Made in U.S.A",
+"url":"https://laubeshop.com/dr-slick-spray-oil-in-a-can-made-in-u-s-a/",
+"processed":0
+},
+{ 
+"id":81,
+"category":"Maintenance",
+"sub_category":"Lubricants/Coolants",
+"product_name":"Blade Dip - Lubricant, Cleaner",
+"url":"https://laubeshop.com/blade-dip-lubricant-cleaner/",
+"processed":0
+},
+{ 
+"id":82,
+"category":"Maintenance",
+"sub_category":"Lubricants/Coolants",
+"product_name":"LUBE-N-COOL",
+"url":"https://laubeshop.com/lube-n-cool/",
+"processed":0
+},
+{ 
+"id":83,
+"category":"Maintenance",
+"sub_category":"ReplacementCords",
+"product_name":"Lazor Charger Cords - IEC C13",
+"url":"https://laubeshop.com/lazor-charger-cords-iec-c13/",
+"processed":0
+},
+{ 
+"id":84,
+"category":"Maintenance",
+"sub_category":"ReplacementCords",
+"product_name":"Transformer with US Plug",
+"url":"https://laubeshop.com/transformer-with-us-plug/",
+"processed":0
+},
+{ 
+"id":85,
+"category":"Maintenance",
+"sub_category":"ReplacementCords",
+"product_name":"Plug Adaptor",
+"url":"https://laubeshop.com/plug-adaptor/",
+"processed":0
+},
+{ 
+"id":86,
+"category":"Accessories",
+"sub_category":"Batteries",
+"product_name":"Mini Lazor Lithium-Ion Battery Pack",
+"url":"https://laubeshop.com/mini-lazor-battery-lithium-ion-battery-pack/",
+"processed":0
+},
+{ 
+"id":87,
+"category":"Accessories",
+"sub_category":"Batteries",
+"product_name":"Litening, Cowgirl, Thunder, Mini Micro Lithium Ion Battery Pack",
+"url":"https://laubeshop.com/lithium-ion-battery-pack-litening-cowgirl-thunder-mini-micro/",
+"processed":0
+},
+{ 
+"id":88,
+"category":"Accessories",
+"sub_category":"Batteries",
+"product_name":"Speed Feed and Purrrl Battery Pack",
+"url":"https://laubeshop.com/speed-feed-and-purrrl-battery-pack/",
+"processed":0
+},
+{ 
+"id":89,
+"category":"Accessories",
+"sub_category":"Batteries",
+"product_name":"Lazor Super Battery Pack",
+"url":"https://laubeshop.com/battery-pack-lazor/",
+"processed":0
+},
+{ 
+"id":90,
+"category":"Accessories",
+"sub_category":"ClipperHandpieceOnly",
+"product_name":"Thunder Clipper Handpiece Only",
+"url":"https://laubeshop.com/thunder-clipper-handpiece-only/",
+"processed":0
+},
+{ 
+"id":91,
+"category":"Accessories",
+"sub_category":"ClipperHandpieceOnly",
+"product_name":"Cowgirl Handpiece Only - Pink",
+"url":"https://laubeshop.com/cowgirl-handpiece-only-pink/",
+"processed":0
+},
+{ 
+"id":92,
+"category":"Accessories",
+"sub_category":"ClipperHandpieceOnly",
+"product_name":"Mini Lazor Handpiece",
+"url":"https://laubeshop.com/mini-lazor-handpiece-521-523/",
+"processed":0
+},
+{ 
+"id":93,
+"category":"Accessories",
+"sub_category":"ClipperHandpieceOnly",
+"product_name":"Litening Handpiece",
+"url":"https://laubeshop.com/litening-handpiece/",
+"processed":0
+},
+{ 
+"id":94,
+"category":"Accessories",
+"sub_category":"ClipperHandpieceOnly",
+"product_name":"Mini Micro Handpiece Only",
+"url":"https://laubeshop.com/mini-micro-handpiece-only/",
+"processed":0
+},
+{ 
+"id":95,
+"category":"Accessories",
+"sub_category":"ClipperHandpieceOnly",
+"product_name":"Super Cowboy Handpiece",
+"url":"https://laubeshop.com/super-cowboy-handpiece/",
+"processed":0
+},
+{ 
+"id":96,
+"category":"Accessories",
+"sub_category":"ClipperHandpieceOnly",
+"product_name":"iCLIP Handpiece Only",
+"url":"https://laubeshop.com/iclip-handpiece-only/",
+"processed":0
+},
+{ 
+"id":97,
+"category":"Accessories",
+"sub_category":"ClipperHandpieceOnly",
+"product_name":"851 iVAC  Handpiece Only",
+"url":"https://laubeshop.com/ivac-handpiece-only/",
+"processed":0
+},
+{ 
+"id":98,
+"category":"Accessories",
+"sub_category":"ClipperHandpieceOnly",
+"product_name":"Lazor Handpiece",
+"url":"https://laubeshop.com/lazor-handpiece-505-513-503/",
+"processed":0
+},
+{ 
+"id":99,
+"category":"Accessories",
+"sub_category":"Cordpacks",
+"product_name":"Speed Feed and Purrrl Trimmer Cordpack",
+"url":"https://laubeshop.com/speed-feed-and-purrrl-cordpack/",
+"processed":0
+},
+{ 
+"id":100,
+"category":"Accessories",
+"sub_category":"Cordpacks",
+"product_name":"CORDPACKS- Litening, Cowgirl, Thunder, Mini Micro",
+"url":"https://laubeshop.com/2-speed-cordpack-litening-cowgirl-thunder-minimicro/",
+"processed":0
+},
+{ 
+"id":101,
+"category":"Accessories",
+"sub_category":"Cordpacks",
+"product_name":"CORDPACKS-Mini Lazor",
+"url":"https://laubeshop.com/variable-speed-cordpack-mini-lazor-521-523-571-573/",
+"processed":0
+},
+{ 
+"id":102,
+"category":"Accessories",
+"sub_category":"Cordpacks",
+"product_name":"CORDPACKS-Lazor and Super Cowboy",
+"url":"https://laubeshop.com/variable-speed-cordpack-503-505-553-555-lazor-and-super-cowboys/",
+"processed":0
+},
+{ 
+"id":103,
+"category":"Accessories",
+"sub_category":"Cordpacks",
+"product_name":"iCLIP Cordpack",
+"url":"https://laubeshop.com/iclip-cordpack-only/",
+"processed":0
+},
+{ 
+"id":104,
+"category":"Accessories",
+"sub_category":"Cordpacks",
+"product_name":"2-Speed Lazor and Super Cowboy Cordpack (for Models: 503, 505, 553, 555)",
+"url":"https://laubeshop.com/2-speed-cordpack-505-503-553-555-lazor-super-cowboy/",
+"processed":0
+},
+{ 
+"id":105,
+"category":"Accessories",
+"sub_category":"BladeCombs",
+"product_name":"Blade Comb Case with Lid",
+"url":"https://laubeshop.com/blade-comb-case-with-lid/",
+"processed":0
+},
+{ 
+"id":106,
+"category":"Accessories",
+"sub_category":"BladeCombs",
+"product_name":"MAMMOTH Clipper Combs",
+"url":"https://laubeshop.com/mammoth-clipper-combs/",
+"processed":0
+},
+{ 
+"id":107,
+"category":"Accessories",
+"sub_category":"BladeCombs",
+"product_name":"Big K Combs Clipper Blade Combs, Guards",
+"url":"https://laubeshop.com/big-k-combs-clipper-blade-combs-guards/",
+"processed":0
+},
+{ 
+"id":108,
+"category":"Accessories",
+"sub_category":"Chargers",
+"product_name":"Speed Feed and Purrrl Charging Options",
+"url":"https://laubeshop.com/speed-feed-and-purrrl-charging-options/",
+"processed":0
+},
+{ 
+"id":109,
+"category":"Accessories",
+"sub_category":"Chargers",
+"product_name":"Lithium-Ion Charger Cord",
+"url":"https://laubeshop.com/lithium-cord-plug-for-lithium-charger/",
+"processed":0
+},
+{ 
+"id":110,
+"category":"Accessories",
+"sub_category":"Chargers",
+"product_name":"Lithium Ion Charger - Includes Plug",
+"url":"https://laubeshop.com/lithium-ion-charger-includes-plug/",
+"processed":0
+},
+{ 
+"id":111,
+"category":"Accessories",
+"sub_category":"Chargers",
+"product_name":"Lazor Quick Charger",
+"url":"https://laubeshop.com/lazor-quick-charger/",
+"processed":0
+},
+{ 
+"id":112,
+"category":"Accessories",
+"sub_category":"BladeCases-Storage",
+"product_name":"Mini Blade Case - holds 12 blades",
+"url":"https://laubeshop.com/mini-blade-case-holds-12-blades/",
+"processed":0
+},
+{ 
+"id":113,
+"category":"Accessories",
+"sub_category":"BladeCases-Storage",
+"product_name":"Blade Wash Caddie - Wash and Store 10 Blades",
+"url":"https://laubeshop.com/blade-wash-caddie-wash-and-store-10-blades/",
+"processed":0
+},
+{ 
+"id":114,
+"category":"Accessories",
+"sub_category":"BladeCases-Storage",
+"product_name":"Blade Case - Holds 18 blades, Including Wide Blades",
+"url":"https://laubeshop.com/blade-case-holds-18-blades-including-wide-blades/",
+"processed":0
+},
+{ 
+"id":115,
+"category":"Accessories",
+"sub_category":"BladeCases-Storage",
+"product_name":"Pro Case",
+"url":"https://laubeshop.com/pro-case/",
+"processed":0
+},
+{ 
+"id":116,
+"category":"Accessories",
+"sub_category":"MixingBottles-Pumps",
+"product_name":"Pump - For 5 Gallon Bucket",
+"url":"https://laubeshop.com/pump-for-5-gallon-bucket/",
+"processed":0
+},
+{ 
+"id":117,
+"category":"Accessories",
+"sub_category":"TrimmerAccessories",
+"product_name":"Purrrl Handpiece Only",
+"url":"https://laubeshop.com/purrrl-handpiece-only/",
+"processed":0
+},
+{ 
+"id":118,
+"category":"Accessories",
+"sub_category":"TrimmerAccessories",
+"product_name":"Speed Feed Handpiece",
+"url":"https://laubeshop.com/speed-feed-handpiece-only-305/",
+"processed":0
+},
+{ 
+"id":119,
+"category":"Accessories",
+"sub_category":"TrimmerAccessories",
+"product_name":"Speed Feed and Purrrl Blade Comb Lock",
+"url":"https://laubeshop.com/speed-feed-and-purrrl-blade-comb-lock/",
+"processed":0
+},
+{ 
+"id":120,
+"category":"Accessories",
+"sub_category":"GroomingTools",
+"product_name":"Laube Comb Collection",
+"url":"https://laubeshop.com/laube-comb-collection/",
+"processed":0
+},
+{ 
+"id":121,
+"category":"Accessories",
+"sub_category":"GroomingTools",
+"product_name":"Double Row Undercoat Rake",
+"url":"https://laubeshop.com/double-row-undercoat-rake/",
+"processed":0
+},
+{ 
+"id":122,
+"category":"Accessories",
+"sub_category":"GroomingTools",
+"product_name":"Slicker Brushes with Rubber Handle",
+"url":"https://laubeshop.com/slicker-brushes-with-rubber-handle/",
+"processed":0
+},
+{ 
+"id":123,
+"category":"Accessories",
+"sub_category":"GroomingTools",
+"product_name":"Dual Hook Rake",
+"url":"https://laubeshop.com/dual-hook-rake/",
+"processed":0
+},
+{ 
+"id":124,
+"category":"Accessories",
+"sub_category":"GroomingTools",
+"product_name":"Metal Combs",
+"url":"https://laubeshop.com/metal-combs/",
+"processed":0
+},
+{ 
+"id":125,
+"category":"Accessories",
+"sub_category":"GroomingTools",
+"product_name":"Barber Combs",
+"url":"https://laubeshop.com/barber-combs/",
+"processed":0
+},
+{ 
+"id":126,
+"category":"Accessories",
+"sub_category":"GroomingTools",
+"product_name":"Tapered Combs",
+"url":"https://laubeshop.com/tapered-combs/",
+"processed":0
+},
+{ 
+"id":127,
+"category":"Accessories",
+"sub_category":"GroomingTools",
+"product_name":"Flea Comb",
+"url":"https://laubeshop.com/flea-comb-with-thumb-grip/",
+"processed":0
+},
+{ 
+"id":128,
+"category":"Accessories",
+"sub_category":"GroomingTools",
+"product_name":"Pin Brushes",
+"url":"https://laubeshop.com/pin-brushes/",
+"processed":0
+},
+{ 
+"id":129,
+"category":"Accessories",
+"sub_category":"GroomingTools",
+"product_name":"Lobster Fluff Comb",
+"url":"https://laubeshop.com/lobster-fluff-comb/",
+"processed":0
+},
+{ 
+"id":130,
+"category":"Accessories",
+"sub_category":"GroomingTools",
+"product_name":"Flat Top Barber Combs",
+"url":"https://laubeshop.com/flat-top-barber-combs/",
+"processed":0
+},
+{ 
+"id":131,
+"category":"Dryers",
+"sub_category":"",
+"product_name":"DIRTY DOG® Dryer (includes hose & nozzles)",
+"url":"https://laubeshop.com/dirty-dog-dryer-includes-hose-nozzles/",
+"processed":0
+},
+{ 
+"id":132,
+"category":"Dryers",
+"sub_category":"",
+"product_name":"Laube Magnum Force Dryer Variable Speed",
+"url":"https://laubeshop.com/laube-magnum-dryer-variable-speed/",
+"processed":0
+},
+{ 
+"id":133,
+"category":"PersonalCareProducts",
+"sub_category":"Sanitizers",
+"product_name":"Hand Worx Hand Sanitizer",
+"url":"https://laubeshop.com/hand-worx-hand-sanitizer/",
+"processed":0
+},
+{ 
+"id":134,
+"category":"PersonalCareProducts",
+"sub_category":"HandLotions",
+"product_name":"SuperCoats Therenity Hand Lotion",
+"url":"https://laubeshop.com/sc-therenity-hand-lotion/",
+"processed":0
+},
+{ 
+"id":135,
+"category":"PersonalCareProducts",
+"sub_category":"HandLotions",
+"product_name":"Hoof Worx 50:1",
+"url":"https://laubeshop.com/hoof-worx-50-1/",
+"processed":0
+},
+{ 
+"id":136,
+"category":"PersonalCareProducts",
+"sub_category":"HandLotions",
+"product_name":"Nature\\'s Choice!®  Aloe Protein Hoof Care Lotion RTU",
+"url":"https://laubeshop.com/aloe-protein-hoof-care-lotion-rtu/",
+"processed":0
+},
+{ 
+"id":137,
+"category":"PersonalCareProducts",
+"sub_category":"HandLotions",
+"product_name":"Nature\\'s Choice!® Aloe Vet Cream",
+"url":"https://laubeshop.com/aloe-vet-cream/",
+"processed":0
+},
+{ 
+"id":138,
+"category":"PersonalCareProducts",
+"sub_category":"Rub-A-DubOats",
+"product_name":"Rub-A-Dub Oats - High Quality Collodial Oatmeal Powder - Made in USA",
+"url":"https://laubeshop.com/rub-a-dub-oats-high-quality-collodial-oatmeal-powder-made-in-usa/",
+"processed":0
+},
+{ 
+"id":139,
+"category":"KELCO™Products",
+"sub_category":"Shampoos",
+"product_name":"Kick Ass Shampoo 50:1",
+"url":"https://laubeshop.com/kick-ass-shampoo-50-1/",
+"processed":0
+},
+{ 
+"id":140,
+"category":"KELCO™Products",
+"sub_category":"Shampoos",
+"product_name":"Black Star Shampoo 50:1",
+"url":"https://laubeshop.com/black-star-50-1/",
+"processed":0
+},
+{ 
+"id":141,
+"category":"KELCO™Products",
+"sub_category":"Shampoos",
+"product_name":"Cocoa Tar Shampoo 50:1",
+"url":"https://laubeshop.com/cocoa-tar-50-1/",
+"processed":0
+},
+{ 
+"id":142,
+"category":"KELCO™Products",
+"sub_category":"Shampoos",
+"product_name":"Plum White Shampoo 50:1",
+"url":"https://laubeshop.com/plum-white-shampoo-50-1/",
+"processed":0
+},
+{ 
+"id":143,
+"category":"KELCO™Products",
+"sub_category":"Shampoos",
+"product_name":"Ultra Red White Shampoo 50:1",
+"url":"https://laubeshop.com/ultra-red-white-shampoo-50-1/",
+"processed":0
+},
+{ 
+"id":144,
+"category":"KELCO™Products",
+"sub_category":"Shampoos",
+"product_name":"Ultra Blue White Shampoo 50:1",
+"url":"https://laubeshop.com/ultra-blue-white-shampoo-50-1/",
+"processed":0
+},
+{ 
+"id":145,
+"category":"KELCO™Products",
+"sub_category":"Shampoos",
+"product_name":"Pro Gold Shampoo 50:1",
+"url":"https://laubeshop.com/pro-gold-shampoo-50-1/",
+"processed":0
+},
+{ 
+"id":146,
+"category":"KELCO™Products",
+"sub_category":"Shampoos",
+"product_name":"Zap Shampoo  50:1",
+"url":"https://laubeshop.com/zap-shampoo-50-1/",
+"processed":0
+},
+{ 
+"id":147,
+"category":"KELCO™Products",
+"sub_category":"Shampoos",
+"product_name":"Pennyroyal  Shampoo 50:1",
+"url":"https://laubeshop.com/pennyroyal-50-1/",
+"processed":0
+},
+{ 
+"id":148,
+"category":"KELCO™Products",
+"sub_category":"Shampoos",
+"product_name":"Koala Leaf 50:1",
+"url":"https://laubeshop.com/koala-leaf-50-1/",
+"processed":0
+},
+{ 
+"id":149,
+"category":"KELCO™Products",
+"sub_category":"Shampoos",
+"product_name":"Filthy Animal Shampoo 50:1",
+"url":"https://laubeshop.com/filthy-animal-shampoo-50-1/",
+"processed":0
+},
+{ 
+"id":150,
+"category":"KELCO™Products",
+"sub_category":"Shampoos",
+"product_name":"Dr. FL33 Shampoo 50:1",
+"url":"https://laubeshop.com/dr-fl33-shampoo-50-1/",
+"processed":0
+},
+{ 
+"id":151,
+"category":"KELCO™Products",
+"sub_category":"Shampoos",
+"product_name":"Ultra M.D. Shampoo 50:1",
+"url":"https://laubeshop.com/ultra-m-d-shampoo-50-1/",
+"processed":0
+},
+{ 
+"id":152,
+"category":"KELCO™Products",
+"sub_category":"Shampoos",
+"product_name":"Bubble Neem Shampoo 50:1",
+"url":"https://laubeshop.com/bubble-neem-shampoo-50-1/",
+"processed":0
+},
+{ 
+"id":153,
+"category":"KELCO™Products",
+"sub_category":"Shampoos",
+"product_name":"Twitch\\'n Stops Itchen Shampoo 50:1",
+"url":"https://laubeshop.com/twitch-n-stop-itchin-shampoo-50-1/",
+"processed":0
+},
+{ 
+"id":154,
+"category":"KELCO™Products",
+"sub_category":"Shampoos",
+"product_name":"Dr. Aloe Shampoo 50:1",
+"url":"https://laubeshop.com/dr-aloe-shampoo/",
+"processed":0
+},
+{ 
+"id":155,
+"category":"KELCO™Products",
+"sub_category":"Shampoos",
+"product_name":"Oats Fur Coats 50:1",
+"url":"https://laubeshop.com/oats-fur-coats-50-1/",
+"processed":0
+},
+{ 
+"id":156,
+"category":"KELCO™Products",
+"sub_category":"Shampoos",
+"product_name":"Stanky Dawg Shampoo 50:1",
+"url":"https://laubeshop.com/stanky-dog-shampoo-50-1/",
+"processed":0
+},
+{ 
+"id":157,
+"category":"KELCO™Products",
+"sub_category":"Shampoos",
+"product_name":"Dr. Hypo Shampoo 50:1",
+"url":"https://laubeshop.com/dr-hypo-50-1/",
+"processed":0
+},
+{ 
+"id":158,
+"category":"KELCO™Products",
+"sub_category":"Shampoos",
+"product_name":"Puppy Tears Shampoo 50:1",
+"url":"https://laubeshop.com/puppy-tears-shampoo-50-1/",
+"processed":0
+},
+{ 
+"id":159,
+"category":"KELCO™Products",
+"sub_category":"Conditioners",
+"product_name":"Shampoo Sampler Kit",
+"url":"https://laubeshop.com/shampoo-sampler-kit-see-details/",
+"processed":0
+},
+{ 
+"id":160,
+"category":"KELCO™Products",
+"sub_category":"Conditioners",
+"product_name":"Apple Oats Conditioner 50:1",
+"url":"https://laubeshop.com/apple-oats-conditioner-50-1/",
+"processed":0
+},
+{ 
+"id":161,
+"category":"KELCO™Products",
+"sub_category":"Conditioners",
+"product_name":"Cherry Conditioner 50:1",
+"url":"https://laubeshop.com/cherry-conditioner-50-1/",
+"processed":0
+},
+{ 
+"id":162,
+"category":"KELCO™Products",
+"sub_category":"Conditioners",
+"product_name":"Ultra Moisturizer 50:1",
+"url":"https://laubeshop.com/ultra-moisturizer-50-1/",
+"processed":0
+},
+{ 
+"id":163,
+"category":"KELCO™Products",
+"sub_category":"Conditioners",
+"product_name":"Ultra Silk Conditioner 64:1",
+"url":"https://laubeshop.com/ultra-silk-conditioner-64-1/",
+"processed":0
+},
+{ 
+"id":164,
+"category":"KELCO™Products",
+"sub_category":"Conditioners",
+"product_name":"Plum Cream Rinse Conditioner 50:1",
+"url":"https://laubeshop.com/plum-cream-rinse-conditioner-50-1/",
+"processed":0
+},
+{ 
+"id":165,
+"category":"KELCO™Products",
+"sub_category":"Colognes",
+"product_name":"Filthy Animal Cologne RTU",
+"url":"https://laubeshop.com/filthy-animal-cologne-rtu/",
+"processed":0
+},
+{ 
+"id":166,
+"category":"KELCO™Products",
+"sub_category":"Colognes",
+"product_name":"Frenchie Cologne RTU",
+"url":"https://laubeshop.com/frenchie-cologne-rtu/",
+"processed":0
+},
+{ 
+"id":167,
+"category":"KELCO™Products",
+"sub_category":"Colognes",
+"product_name":"Fresh Scent Cologne RTU",
+"url":"https://laubeshop.com/fresh-scent-cologne-rtu/",
+"processed":0
+},
+{ 
+"id":168,
+"category":"KELCO™Products",
+"sub_category":"Colognes",
+"product_name":"Blue Breeze Cologne RTU",
+"url":"https://laubeshop.com/blue-breeze-cologne-rtu/",
+"processed":0
+},
+{ 
+"id":169,
+"category":"KELCO™Products",
+"sub_category":"Dips-Sprays",
+"product_name":"DeMat Spray RTU",
+"url":"https://laubeshop.com/demat-spray-ready-to-use/",
+"processed":0
+},
+{ 
+"id":170,
+"category":"KELCO™Products",
+"sub_category":"Dips-Sprays",
+"product_name":"DP99 - Dip 64:1",
+"url":"https://laubeshop.com/dp99-dip-64-1/",
+"processed":0
+},
+{ 
+"id":171,
+"category":"KELCO™Products",
+"sub_category":"Dips-Sprays",
+"product_name":"DP76 - Dip 64:1",
+"url":"https://laubeshop.com/dp76-dip-64-1/",
+"processed":0
+},
+{ 
+"id":172,
+"category":"KELCO™Products",
+"sub_category":"Dips-Sprays",
+"product_name":"Zap Ear Clean RTU",
+"url":"https://laubeshop.com/zap-ear-clean-rtu/",
+"processed":0
+},
+{ 
+"id":173,
+"category":"KELCO™Products",
+"sub_category":"Dips-Sprays",
+"product_name":"Zap Spray RTU",
+"url":"https://laubeshop.com/zap-spray-rtu/",
+"processed":0
+},
+{ 
+"id":174,
+"category":"KELCO™Products",
+"sub_category":"Dips-Sprays",
+"product_name":"DP64 - Dip 64:1",
+"url":"https://laubeshop.com/dp64-dip-64-1/",
+"processed":0
+},
+{ 
+"id":175,
+"category":"De-ShedderProducts",
+"sub_category":"LiquidDe-SheddingProducts",
+"product_name":"Liquid De-Shedder Rinseless Shampoo RTU",
+"url":"https://laubeshop.com/liquid-de-shedder-rinseless-shampoo-spray-rtu/",
+"processed":0
+},
+{ 
+"id":176,
+"category":"De-ShedderProducts",
+"sub_category":"LiquidDe-SheddingProducts",
+"product_name":"DeShedding System Trial Kit 11.7 fl oz",
+"url":"https://laubeshop.com/deshedding-system-trial-kit-11-7-fl-oz/",
+"processed":0
+},
+{ 
+"id":177,
+"category":"De-ShedderProducts",
+"sub_category":"LiquidDe-SheddingProducts",
+"product_name":"Liquid De-Shedder Conditioner 50:1",
+"url":"https://laubeshop.com/liquid-de-shedder-conditioner-50-1/",
+"processed":0
+},
+{ 
+"id":178,
+"category":"De-ShedderProducts",
+"sub_category":"LiquidDe-SheddingProducts",
+"product_name":"DeShedding System Kit 4 Gallon Kit",
+"url":"https://laubeshop.com/deshedding-system-kit-4-gallon-kit/",
+"processed":0
+},
+{ 
+"id":179,
+"category":"De-ShedderProducts",
+"sub_category":"LiquidDe-SheddingProducts",
+"product_name":"Liquid De-Shedder Shampoo 50:1",
+"url":"https://laubeshop.com/liquid-de-shedder-shampoo-50-1/",
+"processed":0
+},
+{ 
+"id":180,
+"category":"De-ShedderProducts",
+"sub_category":"LiquidDe-SheddingProducts",
+"product_name":"Liquid De-Shedder Spray RTU",
+"url":"https://laubeshop.com/liquid-de-shedder-spray-rtu/",
+"processed":0
+},
+{ 
+"id":181,
+"category":"NaturesChoice®Products",
+"sub_category":"Specialty",
+"product_name":"Nature\\'s Choice!® Mat-N-Detangler",
+"url":"https://laubeshop.com/mat-n-detangler/",
+"processed":0
+},
+{ 
+"id":182,
+"category":"NaturesChoice®Products",
+"sub_category":"Specialty",
+"product_name":"Nature\\'s Choice!® Aloe Ear Clean RTU",
+"url":"https://laubeshop.com/aloe-ear-clean-rtu/",
+"processed":0
+},
+{ 
+"id":183,
+"category":"NaturesChoice®Products",
+"sub_category":"Shampoos",
+"product_name":"NaturesChoice® Aloe Bluing Shampoo 50:1",
+"url":"https://laubeshop.com/aloe-bluing-shampoo-50-1/",
+"processed":0
+},
+{ 
+"id":184,
+"category":"NaturesChoice®Products",
+"sub_category":"Shampoos",
+"product_name":"DIRTY DOG® NaturesChoice® Shampoo 50:1",
+"url":"https://laubeshop.com/aloe-dirty-dog-shampoo-50-1/",
+"processed":0
+},
+{ 
+"id":185,
+"category":"NaturesChoice®Products",
+"sub_category":"Shampoos",
+"product_name":"Nature\\'s Choice!® Aloe Super R Shampoo 50:1",
+"url":"https://laubeshop.com/aloe-super-r-shampoo-50-1/",
+"processed":0
+},
+{ 
+"id":186,
+"category":"NaturesChoice®Products",
+"sub_category":"Shampoos",
+"product_name":"Nature\\'s Choice!® Simply Silky Shampoo and Conditioner 50:1",
+"url":"https://laubeshop.com/simply-silky-shampoo-and-conditioner-in-one-50-1/",
+"processed":0
+},
+{ 
+"id":187,
+"category":"NaturesChoice®Products",
+"sub_category":"Shampoos",
+"product_name":"Nature\\'s Choice!® Aloe Premium Shampoo 50:1",
+"url":"https://laubeshop.com/aloe-premium-shampoo-50-1/",
+"processed":0
+},
+{ 
+"id":188,
+"category":"NaturesChoice®Products",
+"sub_category":"Shampoos",
+"product_name":"Nature\\'s Choice!® Aloe Basic Shampoo 50:1",
+"url":"https://laubeshop.com/aloe-basic-shampoo-50-1/",
+"processed":0
+},
+{ 
+"id":189,
+"category":"NaturesChoice®Products",
+"sub_category":"Shampoos",
+"product_name":"Nature\\'s Choice!® Aloe Neem Shampoo 50:1",
+"url":"https://laubeshop.com/aloe-neem-shampoo-50-1/",
+"processed":0
+},
+{ 
+"id":190,
+"category":"NaturesChoice®Products",
+"sub_category":"Shampoos",
+"product_name":"Nature\\'s Choice!® Aloe Citru-Mela Shampoo 50:1",
+"url":"https://laubeshop.com/aloe-citru-mela-shampoo-50-1/",
+"processed":0
+},
+{ 
+"id":191,
+"category":"NaturesChoice®Products",
+"sub_category":"Shampoos",
+"product_name":"Nature\\'s Choice!® Citrus DIRTY DOG® 50:1",
+"url":"https://laubeshop.com/citrus-dirty-dog-50-1/",
+"processed":0
+},
+{ 
+"id":192,
+"category":"NaturesChoice®Products",
+"sub_category":"Shampoos",
+"product_name":"Nature\\'s Choice!® Aloe Hydro Itch Shampoo 50:1",
+"url":"https://laubeshop.com/hydro-itch-shampoo-50-1/",
+"processed":0
+},
+{ 
+"id":193,
+"category":"NaturesChoice®Products",
+"sub_category":"Shampoos",
+"product_name":"Nature\\'s Choice!® Aloe Tar and Sulfur Shampoo 50:1",
+"url":"https://laubeshop.com/aloe-tar-and-sulfur-shampoo-50-1/",
+"processed":0
+},
+{ 
+"id":194,
+"category":"NaturesChoice®Products",
+"sub_category":"Shampoos",
+"product_name":"Nature\\'s Choice!® Thera-Dyne Healing Shampoo 50:1",
+"url":"https://laubeshop.com/thera-dyne-healing-shampoo-50-1/",
+"processed":0
+},
+{ 
+"id":195,
+"category":"NaturesChoice®Products",
+"sub_category":"Shampoos",
+"product_name":"Nature\\'s Choice!® Aloe Oatmeal Shampoo 50:1",
+"url":"https://laubeshop.com/aloe-oatmeal-shampoo-50-1/",
+"processed":0
+},
+{ 
+"id":196,
+"category":"NaturesChoice®Products",
+"sub_category":"Shampoos",
+"product_name":"Nature\\'s Choice!® Ultra Mela Shampoo 50:1",
+"url":"https://laubeshop.com/ultra-mela-shampoo-50-1/",
+"processed":0
+},
+{ 
+"id":197,
+"category":"NaturesChoice®Products",
+"sub_category":"Shampoos",
+"product_name":"Nature\\'s Choice!® Tri-Herbal Plus Shampoo 50:1",
+"url":"https://laubeshop.com/tri-herbal-plus-shampoo-50-1/",
+"processed":0
+},
+{ 
+"id":198,
+"category":"NaturesChoice®Products",
+"sub_category":"Shampoos",
+"product_name":"Nature\\'s Choice!® Aloe Hypo A Shampoo 50:1",
+"url":"https://laubeshop.com/aloe-hypo-a-shampoo-50-1/",
+"processed":0
+},
+{ 
+"id":199,
+"category":"NaturesChoice®Products",
+"sub_category":"Conditioners",
+"product_name":"NaturesChoice® Aloe Oatmeal Rinse Conditioner 50:1",
+"url":"https://laubeshop.com/aloe-oatmeal-rinse-conditioner-50-1/",
+"processed":0
+},
+{ 
+"id":200,
+"category":"NaturesChoice®Products",
+"sub_category":"Conditioners",
+"product_name":"NaturesChoice® Aloe Conditioner 50:1",
+"url":"https://laubeshop.com/aloe-conditioner-50-1/",
+"processed":0
+},
+{ 
+"id":201,
+"category":"NaturesChoice®Products",
+"sub_category":"Conditioners",
+"product_name":"NaturesChoice® Aloe Remoisturizer  50:1",
+"url":"https://laubeshop.com/aloe-remoisturizer-conditioner-50-1/",
+"processed":0
+},
+{ 
+"id":202,
+"category":"NaturesChoice®Products",
+"sub_category":"Colognes",
+"product_name":"DIRTY DOG® Natures Choice® Cologne RTU",
+"url":"https://laubeshop.com/dirty-dog-cologne-rtu/",
+"processed":0
+},
+{ 
+"id":203,
+"category":"NaturesChoice®Products",
+"sub_category":"Colognes",
+"product_name":"Nature\\'s Choice!®  Simply Silky Cologne RTU",
+"url":"https://laubeshop.com/simply-silky-cologne-rtu/",
+"processed":0
+},
+{ 
+"id":204,
+"category":"NaturesChoice®Products",
+"sub_category":"Colognes",
+"product_name":"Nature\\'s Choice!®  Bouquet Cologne RTU",
+"url":"https://laubeshop.com/bouquet-cologne-rtu/",
+"processed":0
+},
+{ 
+"id":205,
+"category":"NaturesChoice®Products",
+"sub_category":"Colognes",
+"product_name":"Nature\\'s Choice!®  Bravo Cologne RTU",
+"url":"https://laubeshop.com/bravo-cologne-rtu/",
+"processed":0
+},
+{ 
+"id":206,
+"category":"NaturesChoice®Products",
+"sub_category":"Colognes",
+"product_name":"Nature\\'s Choice!®  Breezy Cologne RTU",
+"url":"https://laubeshop.com/breezy-cologne-rtu/",
+"processed":0
+},
+{ 
+"id":207,
+"category":"NaturesChoice®Products",
+"sub_category":"Colognes",
+"product_name":"Nature\\'s Choice!®  Baby Cologne RTU",
+"url":"https://laubeshop.com/baby-cologne-rtu/",
+"processed":0
+},
+{ 
+"id":208,
+"category":"NaturesChoice®Products",
+"sub_category":"Food/Treats-Natures®",
+"product_name":"Nature\\'s Choice® Chicken Strips 8oz.",
+"url":"https://laubeshop.com/natures-choice-chicken-strips-8oz/",
+"processed":0
+},
+{ 
+"id":209,
+"category":"NaturesChoice®Products",
+"sub_category":"Food/Treats-Natures®",
+"product_name":"Nature\\'s Choice® Dog Food Items",
+"url":"https://laubeshop.com/natures-choice-dog-food-items/",
+"processed":0
+},
+{ 
+"id":210,
+"category":"DirtyDog®Products",
+"sub_category":"",
+"product_name":"Face Off Shampoo 8:1",
+"url":"https://laubeshop.com/dirty-dog-face-off-shampoo-8-1/",
+"processed":0
+},
+{ 
+"id":211,
+"category":"DirtyDog®Products",
+"sub_category":"",
+"product_name":"DIRTY DOG® Medium Fine Comb",
+"url":"https://laubeshop.com/dirty-dog-comb/",
+"processed":0
+},
+{ 
+"id":212,
+"category":"DirtyDog®Products",
+"sub_category":"",
+"product_name":"DIRTY DOG® Flea Comb with thumb grip",
+"url":"https://laubeshop.com/dirty-dog-flea-comb-with-thumb-grip/",
+"processed":0
+},
+{ 
+"id":213,
+"category":"SuperCoats®Products",
+"sub_category":"Colognes/Specialties",
+"product_name":"SuperCoats Collection (11.7 oz  sizes)",
+"url":"https://laubeshop.com/supercoats-entire-system-of-products-11-7-fl-oz-sizes-fragrance-9-in-4-oz/",
+"processed":0
+},
+{ 
+"id":214,
+"category":"SuperCoats®Products",
+"sub_category":"Colognes/Specialties",
+"product_name":"SuperCoats Fragrance #9",
+"url":"https://laubeshop.com/parfume-k9-spray/",
+"processed":0
+},
+{ 
+"id":215,
+"category":"SuperCoats®Products",
+"sub_category":"Colognes/Specialties",
+"product_name":"Derma Relief VapoClear Astringent",
+"url":"https://laubeshop.com/derma-relief-vapoclear-astringent/",
+"processed":0
+},
+{ 
+"id":216,
+"category":"SuperCoats®Products",
+"sub_category":"Colognes/Specialties",
+"product_name":"Derma Renew Moisture Plus Spray",
+"url":"https://laubeshop.com/derma-renew-moisture-plus-spray/",
+"processed":0
+},
+{ 
+"id":217,
+"category":"SuperCoats®Products",
+"sub_category":"Colognes/Specialties",
+"product_name":"Derma Pure DeMat and Detangler Spray",
+"url":"https://laubeshop.com/derma-pure-demat-and-detangler-spray/",
+"processed":0
+},
+{ 
+"id":218,
+"category":"SuperCoats®Products",
+"sub_category":"Conditioner",
+"product_name":"Derma Relief Conditioner",
+"url":"https://laubeshop.com/derma-relief-conditioner/",
+"processed":0
+},
+{ 
+"id":219,
+"category":"SuperCoats®Products",
+"sub_category":"Conditioner",
+"product_name":"Derma Renew Conditioner",
+"url":"https://laubeshop.com/derma-renew-conditioner/",
+"processed":0
+},
+{ 
+"id":220,
+"category":"SuperCoats®Products",
+"sub_category":"Conditioner",
+"product_name":"Derma Pure Conditioner",
+"url":"https://laubeshop.com/derma-pure-conditioner/",
+"processed":0
+},
+{ 
+"id":221,
+"category":"SuperCoats®Products",
+"sub_category":"Shampoo",
+"product_name":"Derma Relief Shampoo",
+"url":"https://laubeshop.com/derma-relief-shampoo/",
+"processed":0
+},
+{ 
+"id":222,
+"category":"SuperCoats®Products",
+"sub_category":"Shampoo",
+"product_name":"Derma Renew Shampoo",
+"url":"https://laubeshop.com/derma-renew-shampoo/",
+"processed":0
+},
+{ 
+"id":223,
+"category":"SuperCoats®Products",
+"sub_category":"Shampoo",
+"product_name":"Derma Pure Shampoo",
+"url":"https://laubeshop.com/derma-pure-shampoo/",
+"processed":0
+},
+{ 
+"id":224,
+"category":"WildAnimal®Products",
+"sub_category":"Colognes",
+"product_name":"Wild Thang Cologne",
+"url":"https://laubeshop.com/wild-thang-cologne-wild-and-robust-scent/",
+"processed":0
+},
+{ 
+"id":225,
+"category":"WildAnimal®Products",
+"sub_category":"Colognes",
+"product_name":"Wild Blue Yonder Cologne RTU",
+"url":"https://laubeshop.com/wild-blue-yonder-cologne-rtu/",
+"processed":0
+},
+{ 
+"id":226,
+"category":"WildAnimal®Products",
+"sub_category":"Colognes",
+"product_name":"Wild Animal Purple Sky Cologne",
+"url":"https://laubeshop.com/purple-sky-cologne-floral-tones/",
+"processed":0
+},
+{ 
+"id":227,
+"category":"WildAnimal®Products",
+"sub_category":"Colognes",
+"product_name":"Le Frou Frou Cologne",
+"url":"https://laubeshop.com/le-frou-frou-cologne/",
+"processed":0
+},
+{ 
+"id":228,
+"category":"WildAnimal®Products",
+"sub_category":"Colognes",
+"product_name":"Hairy Beast Cologne",
+"url":"https://laubeshop.com/hairy-beast-cologne/",
+"processed":0
+},
+{ 
+"id":229,
+"category":"WildAnimal®Products",
+"sub_category":"Dips-Sprays",
+"product_name":"Tonic Plunge 44 Dip 64:1",
+"url":"https://laubeshop.com/tonic-plunge-44-dip-64-1/",
+"processed":0
+},
+{ 
+"id":230,
+"category":"WildAnimal®Products",
+"sub_category":"Dips-Sprays",
+"product_name":"Tonic Plunge 88 Dip",
+"url":"https://laubeshop.com/tonic-plunge-88-dip/",
+"processed":0
+},
+{ 
+"id":231,
+"category":"WildAnimal®Products",
+"sub_category":"Dips-Sprays",
+"product_name":"Tonic Plunge 22 Dip",
+"url":"https://laubeshop.com/tonic-plunge-22-dip/",
+"processed":0
+},
+{ 
+"id":232,
+"category":"WildAnimal®Products",
+"sub_category":"Dips-Sprays",
+"product_name":"Liquid Slicker RTU De-Matter",
+"url":"https://laubeshop.com/liquid-slicker-rtu-de-matter/",
+"processed":0
+},
+{ 
+"id":233,
+"category":"WildAnimal®Products",
+"sub_category":"Shampoos",
+"product_name":"All Out Red Shampoo 50:1",
+"url":"https://laubeshop.com/all-out-red-shampoo-50-1/",
+"processed":0
+},
+{ 
+"id":234,
+"category":"WildAnimal®Products",
+"sub_category":"Shampoos",
+"product_name":"All Out Black Shampoo  50:1",
+"url":"https://laubeshop.com/all-out-black-shampoo-50-1/",
+"processed":0
+},
+{ 
+"id":235,
+"category":"WildAnimal®Products",
+"sub_category":"Shampoos",
+"product_name":"All Out Gold Shampoo 50:1",
+"url":"https://laubeshop.com/all-out-gold-shampoo-50-1/",
+"processed":0
+},
+{ 
+"id":236,
+"category":"WildAnimal®Products",
+"sub_category":"Shampoos",
+"product_name":"All Out Silver Shampoo 50:1",
+"url":"https://laubeshop.com/all-out-silver-shampoo-50-1/",
+"processed":0
+},
+{ 
+"id":237,
+"category":"WildAnimal®Products",
+"sub_category":"Shampoos",
+"product_name":"Gallon Pump",
+"url":"https://laubeshop.com/gallon-pump/",
+"processed":0
+},
+{ 
+"id":238,
+"category":"WildAnimal®Products",
+"sub_category":"Shampoos",
+"product_name":"All Out Brown Shampoo  50:1",
+"url":"https://laubeshop.com/all-out-brown-shampoo-50-1/",
+"processed":0
+},
+{ 
+"id":239,
+"category":"WildAnimal®Products",
+"sub_category":"Shampoos",
+"product_name":"All Out White Shampoo  50:1",
+"url":"https://laubeshop.com/all-out-white-shampoo-50-1/",
+"processed":0
+},
+{ 
+"id":240,
+"category":"WildAnimal®Products",
+"sub_category":"Shampoos",
+"product_name":"All Out Blue Shampoo 50:1",
+"url":"https://laubeshop.com/all-out-blue-shampoo-50-1/",
+"processed":0
+},
+{ 
+"id":241,
+"category":"WildAnimal®Products",
+"sub_category":"Shampoos",
+"product_name":"Wild Thang Shampoo 50:1",
+"url":"https://laubeshop.com/wild-thang-shampoo-50-1/",
+"processed":0
+},
+{ 
+"id":242,
+"category":"WildAnimal®Products",
+"sub_category":"Shampoos",
+"product_name":"Measure and Mixing Bottle",
+"url":"https://laubeshop.com/measure-and-mixing-bottle/",
+"processed":0
+},
+{ 
+"id":243,
+"category":"WildAnimal®Products",
+"sub_category":"Shampoos",
+"product_name":"Hairy Beast Shampoo 50:1",
+"url":"https://laubeshop.com/hairy-beast-shampoo-50-1/",
+"processed":0
+},
+{ 
+"id":244,
+"category":"WildAnimal®Products",
+"sub_category":"Shampoos",
+"product_name":"Stampede Shampoo The Ultimate Solution  100:1",
+"url":"https://laubeshop.com/stampede-shampoo-the-ultimate-solution-100-1/",
+"processed":0
+},
+{ 
+"id":245,
+"category":"WildAnimal®Products",
+"sub_category":"Shampoos",
+"product_name":"Down-N-Dirty Shampoo 50:1",
+"url":"https://laubeshop.com/down-n-dirty-shampoo-50-1/",
+"processed":0
+},
+{ 
+"id":246,
+"category":"WildAnimal®Products",
+"sub_category":"Shampoos",
+"product_name":"Down Under Eucalyptus Shampoo 50:1",
+"url":"https://laubeshop.com/down-under-eucalyptus-shampoo-50-1/",
+"processed":0
+},
+{ 
+"id":247,
+"category":"WildAnimal®Products",
+"sub_category":"Shampoos",
+"product_name":"White Litening Shampoo 50:1",
+"url":"https://laubeshop.com/white-litening-shampoo-50-1/",
+"processed":0
+},
+{ 
+"id":248,
+"category":"WildAnimal®Products",
+"sub_category":"Shampoos",
+"product_name":"Herbal Neem 50:1",
+"url":"https://laubeshop.com/herbal-neem-50-1/",
+"processed":0
+},
+{ 
+"id":249,
+"category":"WildAnimal®Products",
+"sub_category":"Shampoos",
+"product_name":"Bloomin Orange Shampoo 50:1",
+"url":"https://laubeshop.com/bloomin-orange-shampoo-50-1/",
+"processed":0
+},
+{ 
+"id":250,
+"category":"WildAnimal®Products",
+"sub_category":"Shampoos",
+"product_name":"Soothe-N-Oats Shampoo 50:1",
+"url":"https://laubeshop.com/soothe-n-oats-shampoo-50-1/",
+"processed":0
+},
+{ 
+"id":251,
+"category":"WildAnimal®Products",
+"sub_category":"Shampoos",
+"product_name":"Don\\'t B\\'Itchin Shampoo 50:1",
+"url":"https://laubeshop.com/dont-b-itchin-shampoo-eliminates-the-itchies-50-1/",
+"processed":0
+},
+{ 
+"id":252,
+"category":"WildAnimal®Products",
+"sub_category":"Shampoos",
+"product_name":"Animal Therapy 50:1",
+"url":"https://laubeshop.com/animal-therapy-50-1/",
+"processed":0
+},
+{ 
+"id":253,
+"category":"WildAnimal®Products",
+"sub_category":"Shampoos",
+"product_name":"Aloe Heel Shampoo 50:1",
+"url":"https://laubeshop.com/aloe-heel-shampoo-50-1/",
+"processed":0
+},
+{ 
+"id":254,
+"category":"WildAnimal®Products",
+"sub_category":"Shampoos",
+"product_name":"Kit N Pup  50:1",
+"url":"https://laubeshop.com/kit-n-pup-50-1/",
+"processed":0
+},
+{ 
+"id":255,
+"category":"WildAnimal®Products",
+"sub_category":"Shampoos",
+"product_name":"Hypo Clear - Hypoallergenic 50:1",
+"url":"https://laubeshop.com/hypo-clear-hypoallergenic-50-1/",
+"processed":0
+},
+{ 
+"id":256,
+"category":"WildAnimal®Products",
+"sub_category":"Conditioners",
+"product_name":"Skin Moisturizer Conditioner 50:1",
+"url":"https://laubeshop.com/skin-moisturizer-conditioner-50-1/",
+"processed":0
+},
+{ 
+"id":257,
+"category":"WildAnimal®Products",
+"sub_category":"Conditioners",
+"product_name":"Wild Apple Conditioner 50:1",
+"url":"https://laubeshop.com/wild-apple-conditioner-pleasant-apple-scent-removes-harsh-odors-50-1/",
+"processed":0
+},
+{ 
+"id":258,
+"category":"WildAnimal®Products",
+"sub_category":"Conditioners",
+"product_name":"Silk-N-Silk Conditioner 64:1",
+"url":"https://laubeshop.com/silk-n-silk-conditioner-64-1/",
+"processed":0
+},
+{ 
+"id":259,
+"category":"WildAnimal®Products",
+"sub_category":"Conditioners",
+"product_name":"Lilac Cream Rinse Conditioner 50:1",
+"url":"https://laubeshop.com/lilac-cream-rinse-conditioner-50-1/",
+"processed":0
+},
+{ 
+"id":260,
+"category":"WildAnimal®Products",
+"sub_category":"Conditioners",
+"product_name":"Wild Cherry Conditioner  50:1",
+"url":"https://laubeshop.com/wild-cherry-conditioner-50-1/",
+"processed":0
+},
+{ 
+"id":261,
+"category":"WildAnimal®Products",
+"sub_category":"Specialty",
+"product_name":"Coat Polish",
+"url":"https://laubeshop.com/coat-polish-trifecta-of-conditioners/",
+"processed":0
+},
+{ 
+"id":262,
+"category":"WildAnimal®Products",
+"sub_category":"Specialty",
+"product_name":"Easy Ear Clean  50:1",
+"url":"https://laubeshop.com/easy-ear-clean-50-1/",
+"processed":0
+}]
